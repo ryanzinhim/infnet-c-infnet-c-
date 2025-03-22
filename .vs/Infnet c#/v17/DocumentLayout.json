@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{421C988C-52E4-4EA5-A374-3C30A1C7D516}|Itens de Solu\u00E7\u00E3o{421C988C-52E4-4EA5-A374-3C30A1C7D516}|C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{421C988C-52E4-4EA5-A374-3C30A1C7D516}|Itens de Solu\u00E7\u00E3o{421C988C-52E4-4EA5-A374-3C30A1C7D516}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\infnet c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:infnet c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -54,15 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T23:19:56.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio9.10\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio9.10\\Class1.cs",
@@ -70,12 +83,11 @@
               "RelativeToolTip": "Tp2\\exercicio9.10\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T00:39:47.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T00:39:47.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio9\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio9\\Class1.cs",
@@ -87,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio8\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio8\\Class1.cs",
@@ -99,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio7\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio7\\Class1.cs",
@@ -111,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio6\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio6\\Class1.cs",
@@ -123,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio5\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio5\\Class1.cs",
@@ -135,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio4\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio4\\Class1.cs",
@@ -147,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "exercicio3.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio3\\exercicio3.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio3\\exercicio3.cs",
@@ -159,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio2\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio2\\Class1.cs",
@@ -171,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Infnet c#.csproj",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Infnet c#.csproj",
               "RelativeDocumentMoniker": "Infnet c#.csproj",
@@ -184,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio1\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio1\\Class1.cs",
