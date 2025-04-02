@@ -3,20 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{421C988C-52E4-4EA5-A374-3C30A1C7D516}|Itens de Solu\u00E7\u00E3o{421C988C-52E4-4EA5-A374-3C30A1C7D516}|C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{421C988C-52E4-4EA5-A374-3C30A1C7D516}|Itens de Solu\u00E7\u00E3o{421C988C-52E4-4EA5-A374-3C30A1C7D516}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 12\\ex12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 12\\ex12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 11\\ex11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 11\\ex11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercico10\\ex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercico10\\ex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\infnet c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:infnet c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\tp2\\exercicio9.10\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:tp2\\exercicio9.10\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercico 9\\9.2\\ex9.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercico 9\\9.2\\ex9.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercico 9\\9.1\\ex9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercico 9\\9.1\\ex9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercico 8\\exercicio 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercico 8\\exercicio 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 7\\ex7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 7\\ex7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 3\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 3\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 6\\ex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 6\\ex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 1\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 1\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 5\\ex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 5\\ex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 4\\ex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 4\\ex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\at\\exercicio 2\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:at\\exercicio 2\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\tp3\\ex1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:tp3\\ex1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\tp2\\exercicio9\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:tp2\\exercicio9\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\tp2\\exercicio9.10\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|solutionrelative:tp2\\exercicio9.10\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421C988C-52E4-4EA5-A374-3C30A1C7D516}|Itens de Solu\u00E7\u00E3o{421C988C-52E4-4EA5-A374-3C30A1C7D516}|C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{421C988C-52E4-4EA5-A374-3C30A1C7D516}|Itens de Solu\u00E7\u00E3o{421C988C-52E4-4EA5-A374-3C30A1C7D516}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C621F-F11C-48DB-9AA2-658C728223B2}|Infnet c#.csproj|c:\\users\\ryanv\\source\\repos\\infnet c#\\tp2\\exercicio8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,19 +119,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-22T23:19:56.96Z",
+              "Title": "ex12.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 12\\ex12.cs",
+              "RelativeDocumentMoniker": "AT\\exercicio 12\\ex12.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 12\\ex12.cs",
+              "RelativeToolTip": "AT\\exercicio 12\\ex12.cs",
+              "ViewState": "AgIAAL8AAAAAorE+NNb7v8YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:36:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex11.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 11\\ex11.cs",
+              "RelativeDocumentMoniker": "AT\\exercicio 11\\ex11.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 11\\ex11.cs",
+              "RelativeToolTip": "AT\\exercicio 11\\ex11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:33:07.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ex10.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico10\\ex10.cs",
+              "RelativeDocumentMoniker": "AT\\exercico10\\ex10.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico10\\ex10.cs",
+              "RelativeToolTip": "AT\\exercico10\\ex10.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIAwwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:30:07.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex9.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico 9\\9.2\\ex9.cs",
+              "RelativeDocumentMoniker": "AT\\exercico 9\\9.2\\ex9.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico 9\\9.2\\ex9.cs",
+              "RelativeToolTip": "AT\\exercico 9\\9.2\\ex9.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwH4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:27:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex9.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico 9\\9.1\\ex9.cs",
+              "RelativeDocumentMoniker": "AT\\exercico 9\\9.1\\ex9.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico 9\\9.1\\ex9.cs",
+              "RelativeToolTip": "AT\\exercico 9\\9.1\\ex9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:23:34.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "exercicio 8.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico 8\\exercicio 8.cs",
+              "RelativeDocumentMoniker": "AT\\exercico 8\\exercicio 8.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercico 8\\exercicio 8.cs",
+              "RelativeToolTip": "AT\\exercico 8\\exercicio 8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:01:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex7.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 7\\ex7.cs",
+              "RelativeDocumentMoniker": "AT\\exercicio 7\\ex7.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 7\\ex7.cs",
+              "RelativeToolTip": "AT\\exercicio 7\\ex7.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:54:48.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ex6.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 6\\Ex6.cs",
+              "RelativeDocumentMoniker": "AT\\exercicio 6\\Ex6.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 6\\Ex6.cs",
+              "RelativeToolTip": "AT\\exercicio 6\\Ex6.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:48:50.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ex5.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 5\\ex5.cs",
+              "RelativeDocumentMoniker": "AT\\exercicio 5\\ex5.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\exercicio 5\\ex5.cs",
+              "RelativeToolTip": "AT\\exercicio 5\\ex5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:15:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ex4.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 4\\ex4.cs",
+              "RelativeDocumentMoniker": "AT\\Exercicio 4\\ex4.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 4\\ex4.cs",
+              "RelativeToolTip": "AT\\Exercicio 4\\ex4.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:06:21.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ex3.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 3\\Ex3.cs",
+              "RelativeDocumentMoniker": "AT\\Exercicio 3\\Ex3.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 3\\Ex3.cs",
+              "RelativeToolTip": "AT\\Exercicio 3\\Ex3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:46:15.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ex2.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 2\\ex2.cs",
+              "RelativeDocumentMoniker": "AT\\Exercicio 2\\ex2.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 2\\ex2.cs",
+              "RelativeToolTip": "AT\\Exercicio 2\\ex2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:33:14.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ex1.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 1\\ex1.cs",
+              "RelativeDocumentMoniker": "AT\\Exercicio 1\\ex1.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\AT\\Exercicio 1\\ex1.cs",
+              "RelativeToolTip": "AT\\Exercicio 1\\ex1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:25:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\tp3\\ex1\\Class1.cs",
+              "RelativeDocumentMoniker": "tp3\\ex1\\Class1.cs",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\tp3\\ex1\\Class1.cs",
+              "RelativeToolTip": "tp3\\ex1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:22:48.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio9.10\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio9.10\\Class1.cs",
@@ -87,19 +312,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio9\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio9\\Class1.cs",
               "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio9\\Class1.cs",
               "RelativeToolTip": "Tp2\\exercicio9\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T00:37:43.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Infnet c#.csproj",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Infnet c#.csproj",
+              "RelativeDocumentMoniker": "Infnet c#.csproj",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Infnet c#.csproj",
+              "RelativeToolTip": "Infnet c#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T00:11:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T23:19:56.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio8\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio8\\Class1.cs",
@@ -111,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio7\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio7\\Class1.cs",
@@ -123,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio6\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio6\\Class1.cs",
@@ -135,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio5\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio5\\Class1.cs",
@@ -147,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio4\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio4\\Class1.cs",
@@ -159,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "exercicio3.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio3\\exercicio3.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio3\\exercicio3.cs",
@@ -171,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio2\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio2\\Class1.cs",
@@ -183,20 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Infnet c#.csproj",
-              "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Infnet c#.csproj",
-              "RelativeDocumentMoniker": "Infnet c#.csproj",
-              "ToolTip": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Infnet c#.csproj",
-              "RelativeToolTip": "Infnet c#.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T00:11:25.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ryanv\\source\\repos\\Infnet c#\\Tp2\\exercicio1\\Class1.cs",
               "RelativeDocumentMoniker": "Tp2\\exercicio1\\Class1.cs",

@@ -9,7 +9,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="AT\exercico 9\9.2\ex9.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="tp3\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AT\exercico 9\9.2\ex9.cs" />
   </ItemGroup>
 
 </Project>
